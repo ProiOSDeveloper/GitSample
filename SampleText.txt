@@ -1,2 +1,3 @@
 This is sample text.
 For Version 2
+Sign up fix.
